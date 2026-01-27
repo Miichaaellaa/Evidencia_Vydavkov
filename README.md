@@ -19,7 +19,7 @@ npm run start
 Po splnení každej úlohy si odškrtnite príslušný bod. ([ ] -> [x]). Za každým commitom spravte push na GitHub, aby bola aktuálna práca dostupná online.
 
 - [x] 0. Vytvorte vetvu s názvom `feature/PRIEZVISKO/task-list`. Spravte commit s popisom "Vytvorená vetva feature/to-do-list".
-- [ ] 1. Vytvorte textový input, ktorý bude mať placeholder "Zadajte text". Spravte commit s popisom "Vytvorený textový input".
+- [x] 1. Vytvorte textový input, ktorý bude mať placeholder "Zadajte text". Spravte commit s popisom "Vytvorený textový input".
 - [ ] 2. Pridajte tlačidlo s textom "ADD TASK". Spravte commit s popisom "Pridané tlačidlo".
 - [ ] 3. Po kliknutí sa obsah textového inputu zobrazí v konzole. Vytvorte funkciu, ktorá to vykoná. Spravte commit s popisom "Pridaná funkcia na zobrazenie textu v konzole".
 - [ ] 5. Vytvorte oblasť, kde sa budú zobrazovať úlohy. Spravte commit s popisom "Vytvorená oblasť na zobrazenie úloh".
